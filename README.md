@@ -34,25 +34,25 @@ As a data scientist, I am driven by the desire to turn complex data into actiona
 # Courses and Certificates
 
 
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)  [50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning!](https://user-images.githubusercontent.com/64266044/215563765-d8e41a91-a777-4032-a169-7841fc133948.png)
+
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) [Statistics for Data Science and Business Analysis!](https://www.coursera.org/account/accomplishments/certificate/7AB9DUGYVW9V)
 
 
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) :[50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning!](https://user-images.githubusercontent.com/64266044/215563765-d8e41a91-a777-4032-a169-7841fc133948.png)
-
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) :[Statistics for Data Science and Business Analysis!](https://www.coursera.org/account/accomplishments/certificate/7AB9DUGYVW9V)
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) [Statistics for Data Science with Python!](https://www.coursera.org/account/accomplishments/certificate/7AB9DUGYVW9V)
 
 
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) :[Statistics for Data Science with Python!](https://www.coursera.org/account/accomplishments/certificate/7AB9DUGYVW9V)
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) [IBM - Data Visualization with Python!](https://www.credly.com/go/KBCFLC34)
 
 
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) :[IBM - Data Visualization with Python!](https://www.credly.com/go/KBCFLC34)
+![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) [The Complete Neural Networks Bootcamp: Theory, Applications](https://www.udemy.com/certificate/UC-31483e44)
 
 
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) :[IThe Complete Neural Networks Bootcamp: Theory, Applications]([https://www.credly.com/go/KBCFLC34](https://www.udemy.com/certificate/UC-31483e44)
+![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)  [BTK Akademi-Uygulamalarla SQL Öğreniyorum](https://www.btkakademi.gov.tr/portal/certificate/view?hashId=8jmh8Y0Ml)
 
 
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) :[BTK Akademi-Uygulamalarla SQL Öğreniyorum](https://www.btkakademi.gov.tr/portal/certificate/view?hashId=8jmh8Y0Ml)
 
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) [Stanford University-Machine Learning](https://www.coursera.org/account/accomplishments/certificate/JVZWP5DYM2DV)
 
 
 ##
