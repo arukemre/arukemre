@@ -34,7 +34,8 @@ As a data scientist, I am driven by the desire to turn complex data into actiona
 # Courses and Certificates
 
 
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)  [50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning!](https://user-images.githubusercontent.com/64266044/215563765-d8e41a91-a777-4032-a169-7841fc133948.png)
+![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)  [50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning!](http://ude.my/UC-cf1b5ecd-8fd4-45d3-b379-ee9e5e2b684e/)
+
 
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) [Statistics for Data Science and Business Analysis!](https://www.coursera.org/account/accomplishments/certificate/7AB9DUGYVW9V)
 
