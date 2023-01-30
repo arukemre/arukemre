@@ -46,7 +46,7 @@ As a data scientist, I am driven by the desire to turn complex data into actiona
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) [IBM - Data Visualization with Python!](https://www.credly.com/go/KBCFLC34)
 
 
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) [The Complete Neural Networks Bootcamp: Theory, Applications](https://www.udemy.com/certificate/UC-31483e44)
+![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) [The Complete Neural Networks Bootcamp: Theory, Applications](https://www.udemy.com/certificate/UC-31483e44-d684-400f-beb5-0473135d165e/)
 
 
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)  [BTK Akademi-Uygulamalarla SQL Öğreniyorum](https://www.btkakademi.gov.tr/portal/certificate/view?hashId=8jmh8Y0Ml)
@@ -56,7 +56,7 @@ As a data scientist, I am driven by the desire to turn complex data into actiona
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) [Stanford University-Machine Learning](https://www.coursera.org/account/accomplishments/certificate/JVZWP5DYM2DV)
 
 
-##
+## 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/emre-aruk-90108a130) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/emrearuk)
